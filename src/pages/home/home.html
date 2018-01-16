@@ -1,0 +1,14 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>{{mData.title}}</ion-title>
+        <ion-buttons right>
+            <button ion-button icon-only (click)="addTitle()">
+                <ion-icon name="add"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <img [src]="mData.link" alt="">
+</ion-content>

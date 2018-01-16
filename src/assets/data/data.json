@@ -1,0 +1,23 @@
+{
+    "fakedata": [{
+            "id": 1,
+            "name": "Bui thi thao phuong"
+        },
+        {
+            "id": 2,
+            "name": "Bui thi phuong thao"
+        },
+        {
+            "id": 3,
+            "name": "Tran anh thu"
+        },
+        {
+            "id": 3,
+            "name": "Luong xuan phuoc "
+        },
+        {
+            "id": 4,
+            "name": "Luong thi ngoan"
+        }
+    ]
+}
